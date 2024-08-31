@@ -45,7 +45,7 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
   return (
     <Box>
       <Banner
-        purpose="RENT A HOME"
+        purpose=""
         title1="Rental Homes for"
         title2="Everyone"
         desc1="Explore Apartaments, Villas, Homes"
@@ -62,7 +62,7 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
       </Flex>
 
       <Banner
-        purpose="BUY A HOME"
+        purpose=""
         title1="Find, Buy and Own Your"
         title2="Dream Home"
         desc1="Explore Apartaments, Villas, Homes"
